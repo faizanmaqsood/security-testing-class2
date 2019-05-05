@@ -1,1 +1,1 @@
-default: TARGET_HOSTNAME=http://192.168.0.3:8008
+default: TARGET_HOSTNAME=kz.capptelenorpk.com
